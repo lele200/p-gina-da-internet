@@ -1,0 +1,23 @@
+<img src="barbearia1.jpg">
+
+body{
+    background: #063e5f;
+}
+
+h1{  
+    text-align:center;
+    background: #065f2b;
+}
+
+
+p {
+    text-aling: center;
+    background: #92cf7a;
+}
+em strong {
+    color:aliceblue
+}
+
+#missão {
+    font-size: 20px;
+}
