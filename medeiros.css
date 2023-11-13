@@ -1,0 +1,32 @@
+
+body{background: #0f056b;}
+
+h1{  
+    text-align:center;
+    background: #092fad;
+}
+
+
+p {
+    text-aling: center;
+    background-color: #7daff0;
+}
+em strong {
+    color:rgb(23, 147, 230)
+}
+
+#missão {
+    font-size: 20px;
+}
+#baner{
+    width: 100%;
+}
+
+.itens{
+    font-size: italic;
+}
+
+.benefícios {
+    background: #5687f1;
+}
+
